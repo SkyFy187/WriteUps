@@ -1,2 +1,2 @@
 # WriteUps
-WriteUps for HackTheBox Challanges
+WriteUps for HackTheBox Machines
